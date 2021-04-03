@@ -7,6 +7,7 @@
   <br>
   Aplicação desenvolvida durante o chapter III do bootcamp Ignite - trilha React da Rocketseat. Ig.news é uma aplicação que fornece conteúdo pago sobre React.js. O usuário faz seu cadastro, paga um valor por mês e tem acesso aos posts da aplicação
   <br>
+  <br>
   Ignews foi desenvolvido em React.js com Next.js, TypeScript e Sass, a autenticação da aplicação é feita através do GitHub e a inscrição e pagamento para visualização do conteúdo através do Stripe. Os posts são gerenciados através da CMS Prismic e os dados de inscrição são armazenados no Faunadb
 </h3>
 
